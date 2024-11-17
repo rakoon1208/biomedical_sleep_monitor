@@ -53,7 +53,7 @@ This project is a low-cost sleep monitoring device designed to track sleep patte
 - Integrate additional features like sleep tracking analytics.
 
 ## Acknowledgments
-This project was developed as part of the ELG3336 course at the University of Ottawa.
+This project was developed as the final project for the course ELG3336 at the University of Ottawa.
 
 ---
 
